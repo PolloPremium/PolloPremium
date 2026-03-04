@@ -11,10 +11,9 @@ Disfruto programar en JavaScript (React) y C#.
 ## 🛠️ Tecnologías y Herramientas
 
 - 🌐 Cisco Packet Tracer  
-- 🦈 Wireshark  
 - ☁️ AWS   
 - 🖥️ Máquinas Virtuales  
-- 🔁 Git & GitLab  
+- 🔁 Git  
 - 🗄️ Prisma  
 - ⚛️ JavaScript / React  
 - 💻 C#  

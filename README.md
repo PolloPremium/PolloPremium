@@ -16,7 +16,9 @@ Disfruto programar en JavaScript (React) y C#.
 - 🔁 Git  
 - 🗄️ Prisma  
 - ⚛️ JavaScript / React  
-- 💻 C#  
+- 💻 C#
+- 🧩 Visual Studio Code  
+- 🖥️ Visual Studio  
 
 ---
 

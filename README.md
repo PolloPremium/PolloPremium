@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🚀 Sobre mí
 
-<!--
-**PolloPremium/PolloPremium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del Instituto Tecnológico de Tijuana en el área de Tecnologías de la Información y Comunicaciones (TICs).  
+Tengo experiencia trabajando con herramientas y plataformas como Cisco Packet Tracer, GitLab, AWS, Prisma, Wireshark y máquinas virtuales.
 
-Here are some ideas to get you started:
+Me interesa el desarrollo de soluciones tecnológicas prácticas, especialmente en el área de redes, virtualización y desarrollo web.  
+Disfruto programar en JavaScript (React) y C#.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+- 🌐 Cisco Packet Tracer  
+- 🦈 Wireshark  
+- ☁️ AWS   
+- 🖥️ Máquinas Virtuales  
+- 🔁 Git & GitLab  
+- 🗄️ Prisma  
+- ⚛️ JavaScript / React  
+- 💻 C#  
+
+---
+
+## 📌 Proyectos Destacados
+
+🔹 Desarrollo de una página web con funcionalidades similares a Airbnb (sistema de publicaciones, reservas y gestión de usuarios).  
+
+🔹 Creación de múltiples sistemas de Punto de Venta (POS) para diferentes tipos de tiendas, adaptados a sus necesidades específicas.  
+
+🔹 Participación en la documentación del "Proyecto Galgo", enfocado en la recreación digital del Instituto Tecnológico de Tijuana Unidad Tomás Aquino utilizando Roblox Studio.

@@ -1,10 +1,10 @@
 ## 🚀 Sobre mí
 
 Soy estudiante del Instituto Tecnológico de Tijuana en el área de Tecnologías de la Información y Comunicaciones (TICs).  
-Tengo experiencia trabajando con herramientas y plataformas como Cisco Packet Tracer, GitLab, AWS, Prisma,Supabase y máquinas virtuales.
+Tengo experiencia trabajando con herramientas y plataformas como Cisco Packet Tracer, GitLab, AWS, Prisma, Supabase y máquinas virtuales.
 
 Me interesa el desarrollo de soluciones tecnológicas prácticas, especialmente en el área de redes, virtualización y desarrollo web.  
-Disfruto programar en JavaScript (React) y C#.
+Disfruto programar en JavaScript (React) y C#, utilizando entornos como Visual Studio Code y Visual Studio para el desarrollo y depuración de aplicaciones.
 
 ---
 
